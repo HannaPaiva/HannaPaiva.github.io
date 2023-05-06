@@ -1,0 +1,1 @@
+import{_ as r,r as n,o as s,c,d as t,w as a,e,b as _}from"./index-f304ccb6.js";const l={},u=_("h2",null,"Here is about",-1);function d(i,f){const o=n("router-link");return s(),c("div",null,[u,t(o,{to:"/home"},{default:a(()=>[e("Home")]),_:1}),e(" | "),t(o,{to:"/about"},{default:a(()=>[e("About")]),_:1})])}const p=r(l,[["render",d]]);export{p as default};
