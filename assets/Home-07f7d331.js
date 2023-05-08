@@ -1,1 +1,0 @@
-import{_ as a,r as n,o as r,c,d as t,w as s,e,b as _}from"./index-42d4f015.js";const l={},d=_("h1",null,"this is Home",-1);function u(i,m){const o=n("router-link");return r(),c("div",null,[d,t(o,{to:"/home"},{default:s(()=>[e("Home")]),_:1}),e(" | "),t(o,{to:"/about"},{default:s(()=>[e("About")]),_:1})])}const h=a(l,[["render",u]]);export{h as default};
